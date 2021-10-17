@@ -12,7 +12,7 @@ meetup-group:
 ## Welcome
 <img src="https://github.com/OWASP/www-chapter-velalar-college-of-engineering-and-technology/blob/main/assets/images/Add%20a%20heading.png?raw=true"/>
 
-OWASP Velaalr College of Engineering was started on October 2021. We organise Meetings,conferences and workshops on Security and related Technologies.All the events organized by us are open to all and anyone who is interested in joining with us are invited. Join us and grow with us. Knowledge is OPEN-SOURCE.
+OWASP Velalar College of Engineering was started on October 2021. We organise Meetings,conferences and workshops on Security and related Technologies.All the events organized by us are open to all and anyone who is interested in joining with us are invited. Join us and grow with us. Knowledge is OPEN-SOURCE.
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
