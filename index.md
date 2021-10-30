@@ -27,7 +27,6 @@ If you like to join our event as a speaker on our upcoming events, Kindly mail u
 
 ## Past Events
 Event Date 	| Event Mode 	| Time 	| Topic 	| Speaker 	
----	|---	|---	|---	|---	|
  29th October 2021 	| Off-line 	| 11 AM IST 	| Inaugural Event 	| The Hod - CSE Department and OWASP Velalar College of Engineering and Technology Team 	
 
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
