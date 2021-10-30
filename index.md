@@ -26,13 +26,12 @@ If you like to join our event as a speaker on our upcoming events, Kindly mail u
 * [Abhinivesh S](mailto:abhi.nivesh@owasp.org)
 
 ## Past Events
-Event Date 	| Event Mode 	| Time 	| Topic 	| Speaker 	
- 29th October 2021 	| Off-line 	| 11 AM IST 	| Inaugural Event 	| The Hod - CSE Department and OWASP Velalar College of Engineering and Technology Team 	
+
+1) 29th October 2021 	- Off-line 	- 11 AM IST 	- Inaugural Event 	- The Hod - CSE Department and OWASP Velalar College of Engineering and Technology Team 	
 
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
-|     Event Date    	| Event Mode 	| Time         	| Topic            	| Speaker                                                  	|
-|:-----------------:	|------------	|--------------	|------------------	|----------------------------------------------------------	|
-| 2nd November 2021 	| Off-line   	| 10.30 AM IST 	| Web Security 101 	| OWASP Velalar College of Engineering and Technology Team 	|
+
+1) 2nd November 2021 - Off-line - 10.30 AM IST - Web Security 101 - OWASP Velalar College of Engineering and Technology Team 	
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
 
