@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Velalar College of Engineering and Technology
-tags: example-tag
+
 region: Asia
 meetup-group:
 
