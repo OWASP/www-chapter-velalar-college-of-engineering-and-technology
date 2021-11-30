@@ -28,10 +28,11 @@ If you like to join our event as a speaker on our upcoming events, Kindly mail u
 ## Past Events
 
 1) 29th October 2021 - Inaugural Event
+2) 20th November 2021 - Web Security 101 
 
 ## Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 
-1) 2nd November 2021 - Web Security 101 
+
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
 
