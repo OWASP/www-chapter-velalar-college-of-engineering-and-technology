@@ -1,8 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Velalar College of Engineering and Technology
-
+title: OWASP Velalar College of Engineering and Technology - Student Chapter
 region: Asia
 meetup-group:
 
