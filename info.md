@@ -2,5 +2,5 @@
 * Provide Group Information
 
 ### Social Links
-* [Meetup]
+* Meetup
 
